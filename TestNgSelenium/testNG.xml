@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Sample TestNg Suite">
+   <test name="SignIn test">
+    <classes>
+      <class name="automationTestNg.SignIn" />
+    </classes>
+  </test>
+</suite>
